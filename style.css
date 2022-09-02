@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Ibarra+Real+Nova:ital,wght@1,500&family=Square+Peg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Ibarra+Real+Nova:ital,wght@1,500&display=swap');
+
+body{
+    background-color: blanchedalmond;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    font-family : 'Cormorant SC', serif;
+}
+
+img{
+    border-radius: 50%;
+    width: 120px;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    height: 75px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    font-size: 1.8rem;
+}
+
+nav ul a{
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li{
+    width: 2px 2px;
+    padding: 4px 20px;
+}
+
+.bottom{
+    position: sticky;
+    height: 90px;
+    background-color: black;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+i{
+    margin: auto 8px;
+}
+
+.icons i{
+    margin: 12px 0px;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+.container{
+    min-height: 75vh;
+    background-color: grey;
+    color: white;
+    font-family : 'Cormorant SC', serif;
+    display: flex;
+    margin: 10px auto;
+    width: 85%;
+    border-radius: 12px;
+    padding: 34px;
+    background-image: url('images/mainbg4.jpg');
+}
+
+#myProgressBar{
+    width: 80vw;
+    cursor: pointer;
+}
+
+.songItem{
+    height: 40px;
+    display: flex;
+    background-color: white;
+    color: black;
+    margin: 10px 0;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 34px;
+}
+
+.songItem i{
+    cursor: pointer;
+}
+
+.songItem img{
+    width: 45px;
+    margin: 0 23px;
+    border-radius: 34px;
+}
+
+.timestrap{
+    margin: 0 23px;
+}
+
+.timestrap i{
+    cursor: pointer;
+}
+
+.classbox{
+    margin: 30px auto;
+}
+
+.songinfo{
+    position: absolute;
+    left: 1vw;
+    display: flex;
+}
+
+.songinfo img{
+    width: 90px;
+}
+
+.songbanner img{
+    opacity: 0;
+    transition: opacity 0.8s ease-in;
+    width: auto;
+    margin: auto auto;
+    padding: 20px 200px;
+    border-radius: 20px;
+}
+
+.songbanner h1{
+    padding: 0px 10px;
+    color: greenyellow;
+    padding: 5% 30%;
+    font-size: 2.5rem;
+}
+
+.songbanner h2{
+    padding: 0px 10px;
+    color: red;
+    padding: 1% 30%;
+    font-size: 2.3rem;
+}
+
+.form-label a{
+    color: rgb(225, 119, 14);
+}
+
+.form-control{
+    width: 150px;
+    height: 25px;
+}
+
+.input-group i{
+    height: 15px;
+    width: 30px;
+}
+
+.input-group{
+    padding-left: 120px;
+}
