@@ -31,26 +31,26 @@ Make sure you have a modern web browser installed.
    ```bash
    git clone https://github.com/your-username/spotify-project.git
 
-Open index.html in your preferred browser.
-Usage
-Open the application in your web browser.
+# Open index.html in your preferred browser.
+# Usage
+# Open the application in your web browser.
 
-Browse and select songs from the playlist.
+# Browse and select songs from the playlist.
 
-Use the shuffle button for a randomized playlist.
+# Use the shuffle button for a randomized playlist.
 
-Change songs based on your interests.
+# Change songs based on your interests.
 
-Screenshots
-Include screenshots or GIFs demonstrating the key features of your application.
+## Screenshots
+# Include screenshots or GIFs demonstrating the key features of your application.
 
-Contributing
-If you'd like to contribute to the project, please follow the Contributing Guidelines.
+## Contributing
+# If you'd like to contribute to the project, please follow the Contributing Guidelines.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+# This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Hat tip to anyone whose code was used or inspired.
-Contact
-For any inquiries or feedback, please contact maheshndevraj@gmail.com.
+## Acknowledgments
+# Hat tip to anyone whose code was used or inspired.
+## Contact
+# For any inquiries or feedback, please contact maheshndevraj@gmail.com.
